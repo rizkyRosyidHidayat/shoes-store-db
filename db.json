@@ -1,14 +1,217 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "product": {
+    "nike": [
+      {
+        "id": "jhsgfsd7e6475",
+        "name": "Nike React Infinity Run Flyknit 3",
+        "price": 2300000,
+        "sale_price": 0,
+        "colors": ["#9B3636"],
+        "sizes": [37, 39, 40, 43, 44],
+        "categories": ["Nike", "Running", "Men", "React"],
+        "description": "Air Jordan 2 made its debut in 1987 as a sleeker, more streamlined version of its predecessor. This version of the AJ 2 features premium leather and an Air-Sole unit, making it the ultimate combination of performance and style.",
+        "feature": "Air Jordan 2 made its debut in 1987 as a sleeker, more streamlined version of its predecessor.",
+        "detail": ["Reflective design elements", "NITRO branding on midsole", "TPU heel spoiler", "Engineered mesh upper with wildwash"],
+        "images": {
+          "banner": "",
+          "details": [""],
+          "card": ""
+        }
+      },
+      {
+        "id": "",
+        "name": "",
+        "price": 0,
+        "sale_price": 0,
+        "colors": [""],
+        "sizes": [37, 38, 39, 40, 41, 42, 43, 44],
+        "categories": [""],
+        "description": "Air Jordan 2 made its debut in 1987 as a sleeker, more streamlined version of its predecessor. This version of the AJ 2 features premium leather and an Air-Sole unit, making it the ultimate combination of performance and style.",
+        "feature": "Air Jordan 2 made its debut in 1987 as a sleeker, more streamlined version of its predecessor.",
+        "detail": ["Reflective design elements", "NITRO branding on midsole", "TPU heel spoiler", "Engineered mesh upper with wildwash"],
+        "images": {
+          "banner": "",
+          "details": [""],
+          "card": ""
+        }
+      },
+      {
+        "id": "",
+        "name": "",
+        "price": 0,
+        "sale_price": 0,
+        "colors": [""],
+        "sizes": [37, 38, 39, 40, 41, 42, 43, 44],
+        "categories": [""],
+        "description": "Air Jordan 2 made its debut in 1987 as a sleeker, more streamlined version of its predecessor. This version of the AJ 2 features premium leather and an Air-Sole unit, making it the ultimate combination of performance and style.",
+        "feature": "Air Jordan 2 made its debut in 1987 as a sleeker, more streamlined version of its predecessor.",
+        "detail": ["Reflective design elements", "NITRO branding on midsole", "TPU heel spoiler", "Engineered mesh upper with wildwash"],
+        "images": {
+          "banner": "",
+          "details": [""],
+          "card": ""
+        }
+      },
+      {
+        "id": "",
+        "name": "",
+        "price": 0,
+        "sale_price": 0,
+        "colors": [""],
+        "sizes": [37, 38, 39, 40, 41, 42, 43, 44],
+        "categories": [""],
+        "description": "Air Jordan 2 made its debut in 1987 as a sleeker, more streamlined version of its predecessor. This version of the AJ 2 features premium leather and an Air-Sole unit, making it the ultimate combination of performance and style.",
+        "feature": "Air Jordan 2 made its debut in 1987 as a sleeker, more streamlined version of its predecessor.",
+        "detail": ["Reflective design elements", "NITRO branding on midsole", "TPU heel spoiler", "Engineered mesh upper with wildwash"],
+        "images": {
+          "banner": "",
+          "details": [""],
+          "card": ""
+        }
+      }
+    ],
+    "puma": [
+      {
+        "id": "",
+        "name": "",
+        "price": 0,
+        "sale_price": 0,
+        "colors": [""],
+        "sizes": [37, 38, 39, 40, 41, 42, 43, 44],
+        "categories": [""],
+        "description": "Air Jordan 2 made its debut in 1987 as a sleeker, more streamlined version of its predecessor. This version of the AJ 2 features premium leather and an Air-Sole unit, making it the ultimate combination of performance and style.",
+        "feature": "Air Jordan 2 made its debut in 1987 as a sleeker, more streamlined version of its predecessor.",
+        "detail": ["Reflective design elements", "NITRO branding on midsole", "TPU heel spoiler", "Engineered mesh upper with wildwash"],
+        "images": {
+          "banner": "",
+          "details": [""],
+          "card": ""
+        }
+      },
+      {
+        "id": "",
+        "name": "",
+        "price": 0,
+        "sale_price": 0,
+        "colors": [""],
+        "sizes": [37, 38, 39, 40, 41, 42, 43, 44],
+        "categories": [""],
+        "description": "Air Jordan 2 made its debut in 1987 as a sleeker, more streamlined version of its predecessor. This version of the AJ 2 features premium leather and an Air-Sole unit, making it the ultimate combination of performance and style.",
+        "feature": "Air Jordan 2 made its debut in 1987 as a sleeker, more streamlined version of its predecessor.",
+        "detail": ["Reflective design elements", "NITRO branding on midsole", "TPU heel spoiler", "Engineered mesh upper with wildwash"],
+        "images": {
+          "banner": "",
+          "details": [""],
+          "card": ""
+        }
+      },
+      {
+        "id": "",
+        "name": "",
+        "price": 0,
+        "sale_price": 0,
+        "colors": [""],
+        "sizes": [37, 38, 39, 40, 41, 42, 43, 44],
+        "categories": [""],
+        "description": "Air Jordan 2 made its debut in 1987 as a sleeker, more streamlined version of its predecessor. This version of the AJ 2 features premium leather and an Air-Sole unit, making it the ultimate combination of performance and style.",
+        "feature": "Air Jordan 2 made its debut in 1987 as a sleeker, more streamlined version of its predecessor.",
+        "detail": ["Reflective design elements", "NITRO branding on midsole", "TPU heel spoiler", "Engineered mesh upper with wildwash"],
+        "images": {
+          "banner": "",
+          "details": [""],
+          "card": ""
+        }
+      },
+      {
+        "id": "",
+        "name": "",
+        "price": 0,
+        "sale_price": 0,
+        "colors": [""],
+        "sizes": [37, 38, 39, 40, 41, 42, 43, 44],
+        "categories": [""],
+        "description": "Air Jordan 2 made its debut in 1987 as a sleeker, more streamlined version of its predecessor. This version of the AJ 2 features premium leather and an Air-Sole unit, making it the ultimate combination of performance and style.",
+        "feature": "Air Jordan 2 made its debut in 1987 as a sleeker, more streamlined version of its predecessor.",
+        "detail": ["Reflective design elements", "NITRO branding on midsole", "TPU heel spoiler", "Engineered mesh upper with wildwash"],
+        "images": {
+          "banner": "",
+          "details": [""],
+          "card": ""
+        }
+      }
+    ],
+    "reebook": [
+      {
+        "id": "",
+        "name": "",
+        "price": 0,
+        "sale_price": 0,
+        "colors": [""],
+        "sizes": [37, 38, 39, 40, 41, 42, 43, 44],
+        "categories": [""],
+        "description": "Air Jordan 2 made its debut in 1987 as a sleeker, more streamlined version of its predecessor. This version of the AJ 2 features premium leather and an Air-Sole unit, making it the ultimate combination of performance and style.",
+        "feature": "Air Jordan 2 made its debut in 1987 as a sleeker, more streamlined version of its predecessor.",
+        "detail": ["Reflective design elements", "NITRO branding on midsole", "TPU heel spoiler", "Engineered mesh upper with wildwash"],
+        "images": {
+          "banner": "",
+          "details": [""],
+          "card": ""
+        }
+      },
+      {
+        "id": "",
+        "name": "",
+        "price": 0,
+        "sale_price": 0,
+        "colors": [""],
+        "sizes": [37, 38, 39, 40, 41, 42, 43, 44],
+        "categories": [""],
+        "description": "Air Jordan 2 made its debut in 1987 as a sleeker, more streamlined version of its predecessor. This version of the AJ 2 features premium leather and an Air-Sole unit, making it the ultimate combination of performance and style.",
+        "feature": "Air Jordan 2 made its debut in 1987 as a sleeker, more streamlined version of its predecessor.",
+        "detail": ["Reflective design elements", "NITRO branding on midsole", "TPU heel spoiler", "Engineered mesh upper with wildwash"],
+        "images": {
+          "banner": "",
+          "details": [""],
+          "card": ""
+        }
+      },
+      {
+        "id": "",
+        "name": "",
+        "price": 0,
+        "sale_price": 0,
+        "colors": [""],
+        "sizes": [37, 38, 39, 40, 41, 42, 43, 44],
+        "categories": [""],
+        "description": "Air Jordan 2 made its debut in 1987 as a sleeker, more streamlined version of its predecessor. This version of the AJ 2 features premium leather and an Air-Sole unit, making it the ultimate combination of performance and style.",
+        "feature": "Air Jordan 2 made its debut in 1987 as a sleeker, more streamlined version of its predecessor.",
+        "detail": ["Reflective design elements", "NITRO branding on midsole", "TPU heel spoiler", "Engineered mesh upper with wildwash"],
+        "images": {
+          "banner": "",
+          "details": [""],
+          "card": ""
+        }
+      },
+      {
+        "id": "",
+        "name": "",
+        "price": 0,
+        "sale_price": 0,
+        "colors": [""],
+        "sizes": [37, 38, 39, 40, 41, 42, 43, 44],
+        "categories": [""],
+        "description": "Air Jordan 2 made its debut in 1987 as a sleeker, more streamlined version of its predecessor. This version of the AJ 2 features premium leather and an Air-Sole unit, making it the ultimate combination of performance and style.",
+        "feature": "Air Jordan 2 made its debut in 1987 as a sleeker, more streamlined version of its predecessor.",
+        "detail": ["Reflective design elements", "NITRO branding on midsole", "TPU heel spoiler", "Engineered mesh upper with wildwash"],
+        "images": {
+          "banner": "",
+          "details": [""],
+          "card": ""
+        }
+      }
+    ]
+  },
+  "brands": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ]
 }
